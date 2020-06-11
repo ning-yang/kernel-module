@@ -1,3 +1,5 @@
+A test linux kernel module for read/write msr.
+
 ## Build
 
 Install tools:
